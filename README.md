@@ -42,10 +42,10 @@ B. Install Manually via GitHub repository.
 + Pin it for future uses.
 
 Let me summarise the buttons for you once again.
-Refresh Button: To generate an entirely new colour palette.
-Heart Button: To access special valentine colour palette & to access user saved palette.
-Moon Button: To access the dark theme colour palette.
-Add Button: To save the current colour palette.
++ Refresh Button: To generate an entirely new colour palette.
++ Heart Button: To access special valentine colour palette & to access user saved palette.
++ Moon Button: To access the dark theme colour palette.
++ Add Button: To save the current colour palette.
 
 
 Keep generating awesome colour palettes.
