@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Infinite Palette",
+    "short_name": "Palette",
+    "version": "1.0.0",
+    "description": "Generate unique color palette at each click.",
+    "icons": {
+        "16": "PopIcon16.png",
+        "48": "PopIcon48.png",
+        "128": "PopIcon128.png"
+    },
+    
+    "browser_action":{
+        "default_icon": "PopIcon16.png",
+        "default_popup": "index.html"
+
+    }
+}

@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    color: #1a201d;
+
+}
+body{
+    height: 500px;
+    width: 300px;
+}
+.row{
+    max-width: 1200px;
+    margin: auto;
+}
+#navbar{
+    background-color: white;
+    height: 40px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto 30px 80px auto;
+    place-items: center stretch;
+    text-align: center;
+}
+#logo{
+    width: 100%;
+    margin-top: 6px;
+}
+#navbar h6{
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+#box{
+    width: 100%;
+    height: 400px;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto auto auto auto auto;
+}
+.strips{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Raleway', sans-serif;
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+input{
+    background-color: transparent;
+}
+.strips:hover{
+    color: white;
+    
+}
+h3{
+    cursor: pointer;
+}
+#foot{
+    height: 60px;
+    display: grid;
+    grid-template-columns: 25px 25px 25px 25px;
+    justify-content: space-around;
+    place-items: center stretch;
+    text-align: center;
+}
+.icons{
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
